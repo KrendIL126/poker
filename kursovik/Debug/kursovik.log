@@ -1,0 +1,6 @@
+﻿  Dealer.cpp
+C:\Users\artem\source\repos\kursovik\kursovik\Dealer.cpp(382,20): warning C4018: <: несоответствие типов со знаком и без знака
+  kursovik.cpp
+C:\Users\artem\source\repos\kursovik\kursovik\kursovik.cpp(25,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  kursovik.vcxproj -> C:\Users\artem\source\repos\kursovik\Debug\kursovik.exe
